@@ -22,6 +22,27 @@ Results-driven Full Stack Software Engineer with 9+ years of experience developi
 
 ## PROFESSIONAL EXPERIENCE
 
+### Full Stack Developer (Part-Time) | **Green Farm Aid**
+*2024 – 2025 | Guadalajara, Mexico*
+
+Full Stack Developer for comprehensive farm management platform serving agricultural operations with real-time data collection and workforce management capabilities.
+
+**Key Achievements & Responsibilities:**
+- Developed React Native mobile application for Android/iOS with offline-first architecture and real-time synchronization
+- Built RESTful API backend using Node.js and Express with PostgreSQL database using Knex query builder
+- Implemented background sync service for seamless data synchronization between mobile devices and server
+- Created React web dashboard for management reporting and data visualization using Highcharts
+- Designed and implemented database migrations for farming blocks, activities, workers, and device management
+- Integrated QR code scanning functionality for efficient worker and resource tracking
+- Implemented timezone-aware date handling for accurate workday management across different regions
+- Developed Docker-based deployment strategy with separate development, testing, and production environments
+- Created comprehensive data models for agricultural activities including picking, packing, and agro-chemical application
+- Implemented device registration and group management system for field devices
+
+**Tech Stack:** JavaScript, React, React Native, Node.js, Express, PostgreSQL, Knex, Docker, Luxon, Expo, React Native Paper, Highcharts
+
+---
+
 ### Software Engineer | **Unosquare** (Contractor)
 *January 2016 – Present | Guadalajara, Mexico*
 
