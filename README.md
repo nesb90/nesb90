@@ -63,8 +63,6 @@ Senior Full Stack Developer responsible for architecting and maintaining mission
 
 **Tech Stack:** JavaScript, React, Node.js, Docker, MongoDB, PostgreSQL, Oracle DB, ActiveMQ, Kafka, AWS
 
-**Tech Stack:** JavaScript, React, Node.js, Docker, MongoDB, PostgreSQL, Oracle DB, ActiveMQ, Kafka, AWS
-
 ---
 
 #### Oil & Gas Industry Client – Administrative Web Application
