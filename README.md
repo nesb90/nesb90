@@ -7,7 +7,7 @@ Guadalajara, Mexico | nestor_1316@hotmail.com | [LinkedIn](https://www.linkedin.
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Full Stack Software Engineer with 9+ years of experience developing scalable web applications across healthcare, oil, and insurance industries. Proven expertise in modern JavaScript frameworks, cloud technologies, and database systems. Skilled in architecting end-to-end solutions, implementing microservices, and leading development initiatives from planning through deployment.
+Results-driven Full Stack Software Engineer with 10+ years of experience developing scalable web applications across healthcare, oil, and insurance industries. Proven expertise in modern JavaScript frameworks, cloud technologies, and database systems. Skilled in architecting end-to-end solutions, implementing microservices, and leading development initiatives from planning through deployment.
 
 ---
 
